@@ -110,7 +110,7 @@ body {
     background-image: url(/Assets/text_bg.jpg);
     background-clip: text;
     background-size: cover;
-    color: transparent;
+    color: white;
 }
 /* Footer */
 footer {
