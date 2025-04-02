@@ -1,0 +1,20 @@
+tr,td,th{
+    padding: 1.75rem;
+    font-size: 18px;
+}
+table{
+    border-collapse: collapse
+}
+th{
+    background-color: rgb(164, 248, 248);
+    color: black;
+}
+tr{
+    border:1px solid skyblue;
+}
+caption{
+    margin-bottom: 40px;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
